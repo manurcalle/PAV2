@@ -1,0 +1,11 @@
+D:\Facu\2015\PAV2\TPPAV2\Enidades\bin\Debug\Entidades.dll
+D:\Facu\2015\PAV2\TPPAV2\Enidades\bin\Debug\Entidades.pdb
+D:\Facu\2015\PAV2\TPPAV2\Enidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Facu\2015\PAV2\TPPAV2\Enidades\obj\Debug\Entidades.dll
+D:\Facu\2015\PAV2\TPPAV2\Enidades\obj\Debug\Entidades.pdb
+D:\Facu\2015\PAV2\TPPAV2\Enidades\bin\Debug\AjaxControlToolkit.dll
+D:\Facu\2015\PAV2\RepoPav2\trunk\Solucion\Enidades\bin\Debug\Entidades.dll
+D:\Facu\2015\PAV2\RepoPav2\trunk\Solucion\Enidades\bin\Debug\Entidades.pdb
+D:\Facu\2015\PAV2\RepoPav2\trunk\Solucion\Enidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Facu\2015\PAV2\RepoPav2\trunk\Solucion\Enidades\obj\Debug\Entidades.dll
+D:\Facu\2015\PAV2\RepoPav2\trunk\Solucion\Enidades\obj\Debug\Entidades.pdb
